@@ -1,0 +1,13 @@
+package install
+expresss
+dotenv cors
+bcrypt
+jsonwebtoken
+
+// when a express-validater frontend data aata hai toh validate krai ki correct hai yha nhi
+npm install express-validator
+
+cookie-parser
+
+// crypto
+npm install crypto-js
